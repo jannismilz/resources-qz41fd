@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jannismilz.github.io/resources-qz41fd/sitemap.xml
